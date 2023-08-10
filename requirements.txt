@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+
+jupyterlab=3.6.3=py311hecd8cb5_0
+matplotlib=3.7.1=py311hecd8cb5_1
+numpy=1.25.2=py311h728a8a3_0
